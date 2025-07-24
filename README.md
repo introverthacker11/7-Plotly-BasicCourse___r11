@@ -1,2 +1,3 @@
-# 7-Plotly-BasicCourse___r11
-Plotly | Basic Codes | Data Visualization | Python3
+# Plotly Basic Codes
+
+### work in progress
